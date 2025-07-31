@@ -1,57 +1,169 @@
- # Hi <img src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" width="45" style="vertical-align: middle;" alt="👋" /> I am Junaid — a curious technologist, creative thinker, and founder of Codespace with Junaid.
+<!-- <h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/junaidahmedk/junaidahmedk/main/Assets/waving-hand.gif" width="30" alt="👋"> I am Junaid a curious technologist, creative thinker, and founder of Codespace with Junaid.
+</h1> -->
 
- <h1 style="font-size: 2 rem; font-weight: bold; color: #0e1010;">
-  Hi 
-  <img 
-    src="https://cliply.co/wp-content/uploads/2019/06/391906110_WAVING_HAND_400px.gif" 
-    width="45" 
-    style="vertical-align: middle;" 
-    alt="👋" 
-  /> 
-  I am Junaid — a curious technologist, creative thinker, and founder of 
-  <span style="color: #0e1010; font-weight: 600; font-style:italic">Codespace with Junaid</span>.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/junaidahmedk/junaidahmedk/main/Assets/banner.png" alt="Codespace with Junaid Banner" />
+</p>
+
+<!-- ![Banner](https://raw.githubusercontent.com/junaidahmedk/junaidahmedk/main/Assets/banner.png) -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=800&color=F66D29&center=true&vCenter=true&width=850&lines=Hi+👋+I'm+Junaid;Curious+Technologist+and+Creative+Thinker;Founder+of+Codespace+with+Junaid" alt="Typing SVG" />
 </h1>
 
+<!-- <h3 align="center">
+  <em>Building the future at <strong>Codespace</strong> — modern web, AI, and intelligent systems 🚀</em>
+</h3> -->
 
-![Banner](https://raw.githubusercontent.com/junaidahmedk/junaidahmedk/main/Assets/banner.png)
+<!-- Animated SVG-style headline (text with waving hand emoji) -->
+<!-- <h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F66D29&center=true&vCenter=true&width=500&lines=Building+the+future+at+Codespace;Modern+Web%2C+AI%2C+and+Intelligent+Systems." alt="Typing SVG" />
+</h3> -->
 
-<h2 align="center" style="color:#F66d29; font-style: italic;">
-  Building the future at Codespace — modern web, AI, and digital systems.
-</h2>
+<!-- Welcome to my digital lab — where ideas turn into systems and experiments become solutions. -->
 
+ Welcome to my digital lab — a space where I share ideas, build tools, and explore the frontier of technology and creativity.
 
-Building the future at Codespace — modern web, AI, and digital systems.
+<br>
 
-Through this space, I share thoughtful content on web development, AI workflows, and the intersection of technology and creativity.
-
-My journey began with a deep love for learning and building — and it has taken me from code to design, from ideas to execution. Whether it's helping others learn to code, writing about tools that empower creators, or exploring what’s next in tech — this is my lab of experiments, thoughts, and stories.
-
-* ✉️  You can contact me at [junaidahmed4387@gmail.com](mailto:junaidahmed4387@gmail.com)
-
-
-
-### Skills
-
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS"/></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" title="Express"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL"/></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" title="Firebase"/></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a>
+### 🧠 What I Work On
+<p align="center">
+  <img src="https://img.shields.io/badge/Web_Development-%23007acc?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Workflows-%23F06666?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Creative_Tools-%237D5FE7?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Intelligent_Systems-%2301BFA5?style=for-the-badge&logo=apachespark&logoColor=white" />
 </p>
 
 
-### Socials
 
-<p align="left"> <a href="https://www.dev.to/codespacejunaid" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV" title="DEV" /> </picture> </a> <a href="https://www.github.com/junaidahmedk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="http://www.instagram.com/codespacewithjunaid" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instragram" title="Instragram" /> </picture> </a> <a href="https://www.linkedin.com/in/junaidahmedk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="http://www.medium.com/codespacejunaid" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a> <a href="https://www.x.com/CodespaceWJ" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.youtube.com/@CodespacewithJunaid" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a> <a href="https://www.twitch.tv/codespacewj" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" alt="Twitch" title="Twitch" /> </picture> </a></p>
+### ✍️ What I Share
+- Thoughtful articles on coding, design, and emerging tech  
+- Tutorials to help others learn and grow  
+- Experiments, insights, and personal projects
 
-### Badges
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/junaidahmedk"><img src="https://github-readme-stats.vercel.app/api?username=junaidahmedk&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="junaidahmedk's GitHub stats" /></a>
+### 💡 Why I Do It
+> Fueled by a deep love for learning and building — my journey moves between code and design, ideas and execution.
+>  
+> **Codespace with Junaid** is my playground for what's next in tech.
 
-<a href="http://www.github.com/junaidahmedk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=junaidahmedk&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/junaidahmedk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidahmedk&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+<br>
 
-<b>Top Repositories</b>
+## 🛠️ My Skill Set
 
-<div width="100%" align="center"><a href="https://github.com/junaidahmedk/leetcode" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=junaidahmedk&repo=leetcode&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/junaidahmedk/react-basics" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=junaidahmedk&repo=react-basics&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<table><tr><td valign="top" width="30%">
+
+<div align="center">
+  
+### Front End  
+<br>
+</div> 
+
+<div align="center">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="60" />&nbsp;&nbsp;   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" height="60" />&nbsp;&nbsp;   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" height="60" />&nbsp;&nbsp;   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" height="60" />&nbsp;&nbsp;   
+<img src="https://raw.githubusercontent.com/junaidahmedk/junaidahmedk/e2eda017e692d1203d2d2b12dcf19e45ba5e0dfe/Assets/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" height="60" />&nbsp;&nbsp;   
+<img src="https://raw.githubusercontent.com/junaidahmedk/junaidahmedk/e2eda017e692d1203d2d2b12dcf19e45ba5e0dfe/Assets/gsap.svg" alt="GSAP" title="GSAP" height="60" />&nbsp;&nbsp;   
+</div>
+
+</td><td valign="top" width="30%">
+
+<div align="center">
+  
+### Back End  
+<br>
+</div> 
+<div align="center">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" height="60" />&nbsp;&nbsp;   
+<img src="https://raw.githubusercontent.com/junaidahmedk/junaidahmedk/e2eda017e692d1203d2d2b12dcf19e45ba5e0dfe/Assets/express-black.svg" alt="Express.js" title="Express.js" height="60" />&nbsp;&nbsp;   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" height="60" />&nbsp;&nbsp;   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="60" />&nbsp;&nbsp;   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" title="Redis" height="60" />&nbsp;&nbsp;   
+</div>
+
+</td><td valign="top" width="30%">
+
+<div align="center">
+  
+### Tools 
+<br>
+</div> 
+<div align="center">  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" height="60" />&nbsp;&nbsp;   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" height="60" />&nbsp;&nbsp;   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" height="60" />&nbsp;&nbsp;   
+<img src="https://raw.githubusercontent.com/junaidahmedk/junaidahmedk/e2eda017e692d1203d2d2b12dcf19e45ba5e0dfe/Assets/linux.svg" alt="Linux" title="Linux" height="60" />&nbsp;&nbsp;  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" title="Postman" height="60" />&nbsp;&nbsp;   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" title="npm" height="60" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=notion" alt="Notion" title="Notion" height="60" />&nbsp;&nbsp;  
+</div>
+
+</td></tr></table>
+
+<br>
+
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://codespacewithjunaid.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" title="Portfolio"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:junaidahmed4387@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/junaidahmedk/junaidahmedk/refs/heads/main/Assets/gmail.png" alt="Email" title="Email" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/junaidahmedk" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" title="LinkedIn" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@CodespacewithJunaid" target="_blank">
+    <img src="https://raw.githubusercontent.com/junaidahmedk/junaidahmedk/refs/heads/main/Assets/youtube.png" alt="YouTube" title="YouTube" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/codespacewithjunaid" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" title="Instagram" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://x.com/CodespaceWJ" target="_blank">
+    <img src="https://raw.githubusercontent.com/junaidahmedk/junaidahmedk/refs/heads/main/Assets/X.png" alt="X" title="Twitter (X)" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://medium.com/@codespacejunaid" target="_blank">
+    <img src="https://raw.githubusercontent.com/junaidahmedk/junaidahmedk/refs/heads/main/Assets/medium.png" alt="Medium" title="Medium" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://substack.com/@codespacejunaid" target="_blank">
+    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" title="Substack"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://dev.to/codespacejunaid" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto" alt="dev.to" title="dev.to" height="40"/>&nbsp;&nbsp;
+  </a>
+</p>
+
+
+<br>
+
+
+
+## 📊 My GitHub Stats
+
+<a href="http://www.github.com/junaidahmedk">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=junaidahmedk&show_icons=true&hide=contribs&count_private=true&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="junaidahmedk's GitHub stats" />
+</a>
+
+
+<a href="https://github.com/junaidahmedk">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidahmedk&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
+
+<a href="http://www.github.com/junaidahmedk">
+<img height=209 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junaidahmedk&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>
+
+<br>
+<br>
+
+<!-- ## Top Repositories
+
+<div width="100%" align="center"><a href="https://github.com/junaidahmedk/leetcode" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=junaidahmedk&repo=leetcode&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/junaidahmedk/react-basics" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=junaidahmedk&repo=react-basics&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /> -->
