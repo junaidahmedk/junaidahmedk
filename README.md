@@ -63,7 +63,7 @@
 <div align="center">
 
 ### Front End  
-<img src="https://via.placeholder.com/1x1" width="300" height="1" alt="" style="opacity:0;" />
+<img src="https://via.placeholder.com/1x1" width="250" height="1" alt="" style="opacity:0;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="60" title="JavaScript" />&nbsp;&nbsp;   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="60" title="React" />&nbsp;&nbsp;   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="60" title="HTML5" />&nbsp;&nbsp;   
@@ -81,7 +81,7 @@
 <div align="center">
 
 ### Back End  
-<img src="https://via.placeholder.com/1x1" width="300" height="1" alt="" style="opacity:0;" />
+<img src="https://via.placeholder.com/1x1" width="250" height="1" alt="" style="opacity:0;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="60" title="Node.js" />&nbsp;&nbsp;   
 <img src="https://raw.githubusercontent.com/junaidahmedk/junaidahmedk/main/Assets/express-black.svg" alt="Express" height="60" title="Express" />&nbsp;&nbsp;   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="60" title="MongoDB" />&nbsp;&nbsp;   
@@ -98,7 +98,7 @@
 <div align="center">
 
 ### Tools  
-<img src="https://via.placeholder.com/1x1" width="300" height="1" alt="" style="opacity:0;" />
+<img src="https://via.placeholder.com/1x1" width="250" height="1" alt="" style="opacity:0;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="60" title="Git" />&nbsp;&nbsp;   
 <img src="https://raw.githubusercontent.com/junaidahmedk/junaidahmedk/main/Assets/github.png" alt="GitHub" height="60" title="GitHub" />&nbsp;&nbsp;   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="60" title="VS Code" />&nbsp;&nbsp;   
