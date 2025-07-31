@@ -96,7 +96,7 @@
 </div> 
 <div align="center">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" height="60" />&nbsp;&nbsp;   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" height="60" />&nbsp;&nbsp;   
+<img src="https://raw.githubusercontent.com/junaidahmedk/junaidahmedk/refs/heads/main/Assets/github.png" alt="GitHub" title="GitHub" height="60" />&nbsp;&nbsp;   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" height="60" />&nbsp;&nbsp;   
 <img src="https://raw.githubusercontent.com/junaidahmedk/junaidahmedk/e2eda017e692d1203d2d2b12dcf19e45ba5e0dfe/Assets/linux.svg" alt="Linux" title="Linux" height="60" />&nbsp;&nbsp;  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" title="Postman" height="60" />&nbsp;&nbsp;   
@@ -149,17 +149,27 @@
 ## 📊 My GitHub Stats
 
 <a href="http://www.github.com/junaidahmedk">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=junaidahmedk&show_icons=true&hide=contribs&count_private=true&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="junaidahmedk's GitHub stats" />
+<img height=200 width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=junaidahmedk&show_icons=true&hide=contribs&count_private=true&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="junaidahmedk's GitHub stats" />
 </a>
 
 
 <a href="https://github.com/junaidahmedk">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidahmedk&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<img height=200 width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidahmedk&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
-
+<div align="center">
 <a href="http://www.github.com/junaidahmedk">
-<img height=209 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=junaidahmedk&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+<img height=800 width="500" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=junaidahmedk&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a></div>
+<br>
+
+
+<!-- <a href="http://www.github.com/junaidahmedk">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=junaidahmedk" alt="junaidahmedk's GitHub stats" />
 </a>
+<a href="http://www.github.com/junaidahmedk">
+  <img height="600" width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidahmedk&layout=compact&langs_count=8&card_width=320" />
+</a> -->
+
 
 <br>
 <br>
