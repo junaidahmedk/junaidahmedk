@@ -23,7 +23,7 @@
 
 <!-- Welcome to my digital lab — where ideas turn into systems and experiments become solutions. -->
 
- Welcome to my digital lab — a space where I share ideas, build tools, and explore the frontier of technology and creativity.
+ Welcome to my digital space — where I share ideas, build tools, and explore the frontier of technology and creativity.
 
 <br>
 
@@ -47,7 +47,7 @@
 ### 💡 Why I Do It
 > Fueled by a deep love for learning and building — my journey moves between code and design, ideas and execution.
 >  
-> **Codespace with Junaid** is my playground for what's next in tech.
+> [**Codespace with Junaid**](https://codespacewithjunaid.com) is my playground for what's next in tech.
 
 
 ---
@@ -55,56 +55,62 @@
 
 ## 🛠️ My Skill Set
 
-<table><tr><td valign="top" width="30%">
+<table><tr><td valign="top" width="33%">
+
+<!-- Hidden Image to Force Width -->
+
 
 <div align="center">
-  
+
 ### Front End  
-<br>
-</div> 
+<img src="https://via.placeholder.com/1x1" width="300" height="1" alt="" style="opacity:0;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="60" title="JavaScript" />&nbsp;&nbsp;   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="60" title="React" />&nbsp;&nbsp;   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="60" title="HTML5" />&nbsp;&nbsp;   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="60" title="CSS3" />&nbsp;&nbsp;   
+<img src="https://raw.githubusercontent.com/junaidahmedk/junaidahmedk/main/Assets/tailwindcss.svg" alt="Tailwind" height="60" title="Tailwind CSS" />&nbsp;&nbsp;   
+<img src="https://raw.githubusercontent.com/junaidahmedk/junaidahmedk/main/Assets/gsap.svg" alt="GSAP" height="60" title="GSAP" />&nbsp;&nbsp;
 
-<div align="center">  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="60" />&nbsp;&nbsp;   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" title="React" height="60" />&nbsp;&nbsp;   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5" height="60" />&nbsp;&nbsp;   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3" height="60" />&nbsp;&nbsp;   
-<img src="https://raw.githubusercontent.com/junaidahmedk/junaidahmedk/e2eda017e692d1203d2d2b12dcf19e45ba5e0dfe/Assets/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" height="60" />&nbsp;&nbsp;   
-<img src="https://raw.githubusercontent.com/junaidahmedk/junaidahmedk/e2eda017e692d1203d2d2b12dcf19e45ba5e0dfe/Assets/gsap.svg" alt="GSAP" title="GSAP" height="60" />&nbsp;&nbsp;   
 </div>
 
-</td><td valign="top" width="30%">
+</td><td valign="top" width="33%">
+
+<!-- Hidden Image -->
+
 
 <div align="center">
-  
+
 ### Back End  
-<br>
-</div> 
-<div align="center">  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" height="60" />&nbsp;&nbsp;   
-<img src="https://raw.githubusercontent.com/junaidahmedk/junaidahmedk/e2eda017e692d1203d2d2b12dcf19e45ba5e0dfe/Assets/express-black.svg" alt="Express.js" title="Express.js" height="60" />&nbsp;&nbsp;   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" height="60" />&nbsp;&nbsp;   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="60" />&nbsp;&nbsp;   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" title="Redis" height="60" />&nbsp;&nbsp;   
+<img src="https://via.placeholder.com/1x1" width="300" height="1" alt="" style="opacity:0;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="60" title="Node.js" />&nbsp;&nbsp;   
+<img src="https://raw.githubusercontent.com/junaidahmedk/junaidahmedk/main/Assets/express-black.svg" alt="Express" height="60" title="Express" />&nbsp;&nbsp;   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="60" title="MongoDB" />&nbsp;&nbsp;   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="60" title="MySQL" />&nbsp;&nbsp;   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" height="60" title="Redis" />&nbsp;&nbsp;   
+
 </div>
 
-</td><td valign="top" width="30%">
+</td><td valign="top" width="33%">
+
+<!-- Hidden Image -->
+
 
 <div align="center">
-  
-### Tools 
-<br>
-</div> 
-<div align="center">  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" height="60" />&nbsp;&nbsp;   
-<img src="https://raw.githubusercontent.com/junaidahmedk/junaidahmedk/refs/heads/main/Assets/github.png" alt="GitHub" title="GitHub" height="60" />&nbsp;&nbsp;   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" title="Visual Studio Code" height="60" />&nbsp;&nbsp;   
-<img src="https://raw.githubusercontent.com/junaidahmedk/junaidahmedk/e2eda017e692d1203d2d2b12dcf19e45ba5e0dfe/Assets/linux.svg" alt="Linux" title="Linux" height="60" />&nbsp;&nbsp;  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" title="Postman" height="60" />&nbsp;&nbsp;   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" title="npm" height="60" />&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=notion" alt="Notion" title="Notion" height="60" />&nbsp;&nbsp;  
+
+### Tools  
+<img src="https://via.placeholder.com/1x1" width="300" height="1" alt="" style="opacity:0;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="60" title="Git" />&nbsp;&nbsp;   
+<img src="https://raw.githubusercontent.com/junaidahmedk/junaidahmedk/main/Assets/github.png" alt="GitHub" height="60" title="GitHub" />&nbsp;&nbsp;   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="60" title="VS Code" />&nbsp;&nbsp;   
+<img src="https://raw.githubusercontent.com/junaidahmedk/junaidahmedk/main/Assets/linux.svg" alt="Linux" height="60" title="Linux" />&nbsp;&nbsp;  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" height="60" title="Postman" />&nbsp;&nbsp;   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" height="60" title="npm" />&nbsp;&nbsp;  
+<img src="https://skillicons.dev/icons?i=notion" alt="Notion" height="60" title="Notion" />&nbsp;&nbsp;  
+
 </div>
 
 </td></tr></table>
+
 
 <br>
 
@@ -143,6 +149,7 @@
 
 
 <br>
+<br>
 
 
 
@@ -152,24 +159,13 @@
 <img height=200 width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=junaidahmedk&show_icons=true&hide=contribs&count_private=true&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="junaidahmedk's GitHub stats" />
 </a>
 
-
 <a href="https://github.com/junaidahmedk">
 <img height=200 width="300" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidahmedk&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
-<div align="center">
+
 <a href="http://www.github.com/junaidahmedk">
-<img height=800 width="500" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=junaidahmedk&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a></div>
-<br>
-
-
-<!-- <a href="http://www.github.com/junaidahmedk">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=junaidahmedk" alt="junaidahmedk's GitHub stats" />
+<img height=200 width="500" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=junaidahmedk&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
-<a href="http://www.github.com/junaidahmedk">
-  <img height="600" width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidahmedk&layout=compact&langs_count=8&card_width=320" />
-</a> -->
-
 
 <br>
 <br>
